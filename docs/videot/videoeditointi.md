@@ -22,7 +22,7 @@ Tällä oppitunnilla tutustumme...
 {:toc}
 </details>
 
-![Mies kuvaa videota](assets/images/opetusvideot/videomies-pieni.png)
+![Mies kuvaa videota](/assets/images/opetusvideot/videomies-pieni.png)
 
 Tässä osiossa käsitellään videoeditoinnin perusteita. Joitain videoeditointiin liittyviä perustaitoja on käsitelty <a href="https://peda.net/jyu/it/perusopinnot/dop/tervetulosivu/videoeditointi/openshot">**ITKP1011 Digitaalisen oppimisen perusteet -opintojaksolla**</a> (tai ITKP101 Tietokone ja tietoverkot työvälineenä). Käy tarvittaessa kertaamassa sen opintojakson materiaalia.
 
@@ -85,7 +85,7 @@ on riittävän tarkkaa, ja tietokoneesi on riittävän tehokas. Ihanteellisessa 
     <thead style="text-align: center;">
         <tr>
             <th>
-                <img src="assets/images/opetusvideot/resoluutiot.jpg" alt="Resoluutiot">
+                <img src="/assets/images/opetusvideot/resoluutiot.jpg" alt="Resoluutiot">
             </th>
         </tr>
     </thead>
@@ -238,17 +238,17 @@ Voit nopeuttaa tai hidastaa videota klikkaamalla klipin päällä hiiren oikea -
 
 On varsin tärkeää, että ääniraita ei ole liian hiljainen tai voimakas. Valitettavasti Edit-välilehdellä ei ole helppoa tapaa tarkastella onko ääni "sopivan" voimakas. Tämä tapahtuukin käyttämällä Fairlight-välilehteä (musiikki-ikoni). Tarkkaillaan Loudness-mittaria, jonka pitäisi pysytellä mahdollisimman lähellä 0-tasoa. Otetaan esimerkki Taso 3 -tehtävän ääniraidasta (tässä ei kuulu ääni vaan näkyy vain pelkkä kuva):
 
-<img src="assets/images/opetusvideot/loudness-1.gif" alt="Loudness-1" /><br>
+<img src="/assets/images/opetusvideot/loudness-1.gif" alt="Loudness-1" /><br>
 
 Huomataan, että mittari on jatkuvasti keltaisen puolella, mikä on huono asia, koska musiikki on tällöin liian kovalla suhteessa standardiäänentasoon (lisätietoa kiinnostuneille: oletuksena Resolvessa on käytössä ITU-R BS.1770-1 standardin loudness; Jos haluat, voit myös klikata kolmen pisteen kautta Youtube-loudnessin käyttöön joka sallii vähän kovemman äänenpaineen).
 
 Käydään säätämässä Edit-välilehden puolella äänen voimakkuutta. Muutetaan audioraidan voimakkuutta raahamalla audioraidan päällä olevaa käyrää alaspäin. Tämä muuttaa äänenvoimakkuutta koko klipin matkalla. Tehdään noin 10-12 desibelin hiljennys äänenvoimakkuuteen. Tässä joutuu vähän kokeilemaan mikä taso olisi sopiva ja tsekkaamaan tilanteen Loudness-mittarista
 
-<img src="assets/images/opetusvideot/loudness-2.gif" alt="loudness-2" />
+<img src="/assets/images/opetusvideot/loudness-2.gif" alt="loudness-2" />
 
 Palataan nyt Fairlight-välilehdelle.
 
-<img src="assets/images/opetusvideot/loudness-3.gif" alt="loudness-2"/>
+<img src="/assets/images/opetusvideot/loudness-3.gif" alt="loudness-2"/>
 
 Nyt näyttää paljon paremmalta. Mittari kyllä käy välillä keltaisella, mutta tämä on OK, kunhan se ei siellä ole kovin pitkään. Huomautus 1.11.2023: Äänentason loudness-tarkastelu kyllä tehtiin mallivideossa (ääniraitaa hiljennettiin n. 13dB), mutta sitä ei videossa näytetty. Päivitän malliratkaisun videon myöhemmin...
 
@@ -256,7 +256,7 @@ Kiinnitä huomiota myös siihen, että äänenvoimakkuus pysyy tasaisena eri kli
 
 Audioraidan äänenvoimakkuuden muuttaminen yhden klipin sisällä (esim. fade in tai fade out -tyyppiset tilanteet): Pidä alt-näppäin (Windows) tai option-näppäin (macOS) painettuna. Lisää avainpisteitä käyrälle ja muuta äänenvoimakkuutta haluamaksesi.
 
-<img src="assets/images/opetusvideot/hiljenna-audio-2.gif" alt="Audio keyframes" />
+<img src="/assets/images/opetusvideot/hiljenna-audio-2.gif" alt="Audio keyframes" />
 
 Voit myös poistaa linkityksen videon ja audion väliltä. Klikkaa videoklippiä hiiren oikealla ja klikkaa Link clips (jolloin valinta poistuu siitä kohdasta). Tämän jälkeen voit siirtää pelkkää audioraitaa irrallaan videoraidasta tai vaikkapa poistaa audioraidan kokonaan.
 
@@ -280,7 +280,7 @@ Lue lisätietoja tekstien lisäämisestä seuraavan linkin kautta (englanniksi).
 
 Avainruutujen avulla halutun parametrin muutos voidaan tarkasti määrittää ajan suhteen. "Parametri" voi olla melkein mikä tahansa sellainen asia, jonka videolle pystyy tekemään, esimerkiksi sijainti, koko, kierto, tai vaikkapa efektin voimakkuus. Otetaan yksinkertainen esimerkki.
 
-<img src="assets/images/opetusvideot/lääkäri.gif" alt="Lääkäri" />
+<img src="/assets/images/opetusvideot/lääkäri.gif" alt="Lääkäri" />
 
 Tehdään klippiin kierto siten, että lähtötilanteessa kierto on 0 astetta (eli "normaali"), sitten klippi kiertyy 180 astetta, palaten takaisin 0 asteeseen. Katso oheinen video.
 
