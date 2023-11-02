@@ -6,4 +6,4 @@ nav_order: 0
 
 Kissa
 
-![caption]("/assets/images/videomies-pieni.png")
+![caption](/assets/images/videomies-pieni.png)
