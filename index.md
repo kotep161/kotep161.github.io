@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Tervetuloa
 layout: default
 nav_order: 0
 ---
