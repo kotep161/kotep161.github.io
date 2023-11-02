@@ -1,7 +1,7 @@
 ---
 title: Teema 2: Videoeditointi
 layout: default
-parent: videot
+parent: Teema 2: Opetusvideot ja videoiden editointi
 ---
 
 # Videoeditointi DaVinci Resolve -ohjelmalla

@@ -1,7 +1,7 @@
 ---
 title: Opetusvideot ja ruutukaappaus
 layout: default
-parent: videot
+parent: Teema 2: Opetusvideot ja videoiden editointi
 ---
 
 # Opetusvideot ja ruutukaappaus

@@ -1,7 +1,7 @@
 ---
 title: Ruutukaappaus
 layout: default
-parent: videot
+parent: Teema 2: Opetusvideot ja videoiden editointi
 ---
 
 # Ruutukaappausohjelmiston käyttö
